@@ -1,6 +1,11 @@
 ## OSX artifacts
 .DS_Store
 
+## Premake build
+ImGui.vcxproj
+/bin
+/bin-int
+
 ## Dear ImGui artifacts
 imgui.ini
 
